@@ -1,0 +1,43 @@
+categories:
+  - name: Analisa Dan Perancangan Sistem
+    rules:
+      - 'sistem'
+      - 'system'
+    destination: "C:\\Users\\bests\\Documents\\ACADEMIC\\Sem 4\\Analisa Dan Perancangan Sistem"
+
+  - name: Basis Data
+    rules:
+      - 'basis'
+    destination: "C:\\Users\\bests\\Documents\\ACADEMIC\\Sem 4\\Basis Data"
+
+  - name: Cloud Computing
+    rules:
+      - 'cloud'
+      - 'infrastruktur'
+    destination: "C:\\Users\\bests\\Documents\\ACADEMIC\\Sem 4\\Cloud Computing"
+
+  - name: Data Mining
+    rules:
+      - 'mining'
+    destination: "C:\\Users\\bests\\Documents\\ACADEMIC\\Sem 4\\Data Mining"
+
+  - name: IMK
+    rules:
+      - 'imk'
+    destination: "C:\\Users\\bests\\Documents\\ACADEMIC\\Sem 4\\IMK"
+
+  - name: Metode Numerik
+    rules:
+      - 'numerik'
+    destination: "C:\\Users\\bests\\Documents\\ACADEMIC\\Sem 4\\Metode Numerik"
+
+  - name: Pemrograman 1
+    rules:
+      - 'pemrograman'
+    destination: "C:\\Users\\bests\\Documents\\ACADEMIC\\Sem 4\\Pemrograman 1"
+
+  - name: Teori Bahasa
+    rules:
+      - 'bahasa'
+      - 'kombinatorika'
+    destination: "C:\\Users\\bests\\Documents\\ACADEMIC\\Sem 4\\Teori Bahasa"

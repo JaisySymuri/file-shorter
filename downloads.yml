@@ -1,0 +1,33 @@
+categories:
+  - name: Academic
+    rules:
+      - "cloud"
+      - "pertemuan"
+      - "manajemen"
+      - "pengenalan"
+      - "struktur"
+      - "numerik"
+      - "perencanaan"
+      - "graf"
+      - "imk"
+      - "kuliah"
+      - "semester"
+      - "unpam"
+      - "uas"
+      - "uts"
+      - "teori"
+      - "tpl"
+    destination: "C:\\Users\\bests\\Downloads\\[Academic"
+
+  - name: Work
+    rules:
+      - "kerja"
+      - "meeting"
+      - "rapat"
+      - "project"
+      - "tugas"
+      - "kerjaan"
+      - "report"
+      - "spi"
+      - "keycloak"
+    destination: "C:\\Users\\bests\\Downloads\\[Work"
